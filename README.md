@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kritesh Tiwari</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/132833832/236693232-fe4184ac-2046-4004-9119-2c82f931e534.png)">
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🔭 I’m currently working on **PHISHING WEBSITE DETECTION USING MACHINE LEARNING AND DEEP NEURAL NETWORKS**
 
